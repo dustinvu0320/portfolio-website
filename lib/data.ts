@@ -35,28 +35,28 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
-    description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019",
-  },
-  {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
-    description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
-  },
-  {
-    title: "Full-Stack Developer",
+    title: "Undergraduated - University of Houston",
     location: "Houston, TX",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2021 - present",
+      "I graduated with a bachelor degree in Computer Science. I fortunately found a job before graduated.",
+    icon: React.createElement(LuGraduationCap),
+    date: "May 2022",
+  },
+  {
+    title: "Software Engineer - Publicis Sapient",
+    location: "Houston, TX",
+    description:
+      "I worked as a junior software engineer for 1 year in consulting company. I also upskilled to the full stack.",
+    icon: React.createElement(CgWorkAlt),
+    date: "June 2022 - July 2023",
+  },
+  {
+    title: "Software Developer - Paycom",
+    location: "Irving, TX",
+    description:
+      "I'm now a software developer at Fortune 500 company. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+    icon: React.createElement(CgWorkAlt),
+    date: "July 2023 - present",
   },
 ] as const;
 
