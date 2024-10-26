@@ -117,6 +117,7 @@ export const skillsData = [
   "TypeScript",
   "HTML",
   "CSS",
+  "Tailwind",
   "Git",
   "Docker",
   "Splunk",
