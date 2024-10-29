@@ -19,8 +19,8 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I'm a <span className="italic">software developer</span> with a strong foundation in building efficient, secure, and reliable applications. My passion for software development stems from my love of problem-solving and my drive to learn new technologies. With over two years of experience, I've worked on complex payroll reporting systems, optimized application performance, 
-        and developed custom solutions for international clients. My core tech stack is {" "}
+        I'm a <span className="italic">full-stack software developer</span> with a strong foundation in building efficient, secure, and reliable applications. My passion for software development stems from my love of problem-solving and my drive to learn new technologies. With over two years of experience, I've worked on complex payroll reporting systems, optimized application performance, 
+        and developed custom solutions in cross-functional environments. My core tech stack is {" "}
         <span className="font-medium">PHP, ASP.NET, JavaScript, MySQL</span>.
       </p>
 
