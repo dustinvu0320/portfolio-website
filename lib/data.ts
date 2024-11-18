@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Software Engineer - Publicis Sapient",
     location: "Houston, TX",
     description:
-      "- Publicis Sapient was where I sharpened my collaboration skills, working with an awesome team. With tools like .NET, SQL Server, Power BI, and Azure, I streamlined software processes and tackled some serious data challenges.",
+      "- Publicis Sapient was where I sharpened my collaboration skills, working with an awesome team. With tools like ASP.NET, ReactJS, TypeScript, SQL Server, Power BI, and Azure, I streamlined software processes and tackled some serious data challenges.",
     icon: React.createElement(CgWorkAlt),
     date: "June 2022 - July 2023",
   },
@@ -109,6 +109,7 @@ export const skillsData = [
   "C#",
   "ASP.NET",
   "Azure",
+  "Python",
   "Java",
   "SQL Server",
   "MySQL",
